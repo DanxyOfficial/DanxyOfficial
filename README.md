@@ -1,6 +1,6 @@
 # 👋 Halo, saya DanxyOfficial  
 
-![Banner](https://raw.githubusercontent.com/NgakuNgakuDevTapiScRecodePunyaGw/Danxy/main/DanxyToolsV84.png)
+![Banner](https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/NgakuNgakuDevTapiScRecodePunyaGw/blob/main/Tak%20berjudul37_20250919183626.png)
 
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial"><img src="https://img.shields.io/badge/YouTube-DanxyOfficial-red?style=for-the-badge&logo=youtube"></a>
