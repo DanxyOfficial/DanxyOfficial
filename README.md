@@ -20,20 +20,20 @@
 
 ---
 
-## **Tentang Saya**
-- 👨‍💻 Developer & Creator **DanxyTools Framework**  
-- 🔍 Fokus pada **automation, Termux, OSINT, dan hacking tools**  
-- 🎨 Suka bikin **UI interaktif** walau di terminal  
-- 🎯 Motto: *"Code, break, learn, repeat."*
-
----
-
 ## **Statistik GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NgakuNgakuDevTapiScRecodePunyaGw&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgakuNgakuDevTapiScRecodePunyaGw&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
+---
+
+## **Tentang Saya**
+- 👨‍💻 Developer & Creator **DanxyTools Framework**  
+- 🔍 Fokus pada **automation, Termux, OSINT, dan hacking tools**  
+- 🎨 Suka bikin **UI interaktif** walau di terminal  
+- 🎯 Motto: *"Code, break, learn, repeat."*
+- 
 ---
 
 ## **Komunitas & Kontak**
