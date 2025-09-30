@@ -1,6 +1,4 @@
-# 👋 Halo, saya DanxyOfficial  
-
-![Banner](https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/NgakuNgakuDevTapiScRecodePunyaGw/blob/main/Tak%20berjudul37_20250919183626.png)
+  ![Banner](https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/NgakuNgakuDevTapiScRecodePunyaGw/blob/main/Tak%20berjudul37_20250919183626.png)
 
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial"><img src="https://img.shields.io/badge/YouTube-DanxyOfficial-red?style=for-the-badge&logo=youtube"></a>
@@ -11,15 +9,7 @@
 
 ---
 
-## 🚀 Tentang Saya  
-- 👨‍💻 Developer & Creator **DanxyTools Framework**  
-- 🔍 Fokus pada **automation, Termux, OSINT, dan hacking tools**  
-- 🎨 Suka bikin **UI interaktif** walau di terminal  
-- 🎯 Motto: *"Code, break, learn, repeat."*
-
----
-
-## 🛠️ Tech Stack
+## **Tech Stack**
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=yellow"/>
@@ -30,7 +20,15 @@
 
 ---
 
-## 📊 Statistik GitHub
+## **Tentang Saya**
+- 👨‍💻 Developer & Creator **DanxyTools Framework**  
+- 🔍 Fokus pada **automation, Termux, OSINT, dan hacking tools**  
+- 🎨 Suka bikin **UI interaktif** walau di terminal  
+- 🎯 Motto: *"Code, break, learn, repeat."*
+
+---
+
+## **Statistik GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NgakuNgakuDevTapiScRecodePunyaGw&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgakuNgakuDevTapiScRecodePunyaGw&layout=compact&theme=tokyonight" height="180em"/>
@@ -38,7 +36,7 @@
 
 ---
 
-## 🌍 Komunitas & Kontak
+## **Komunitas & Kontak**
 - 🎬 **YouTube**: [DanxyOfficial](https://www.youtube.com/@DanxyOfficial)  
 - 💬 **WhatsApp Channel**: [Join di sini](https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e)  
 - 🎭 **TikTok**: [@Qwela.38](https://www.tiktok.com/@Qwela.38)  
