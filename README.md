@@ -1,12 +1,12 @@
   ![Banner](https://github.com/NgakuNgakuDevTapiScRecodePunyaGw/NgakuNgakuDevTapiScRecodePunyaGw/blob/main/Tak%20berjudul37_20250919183626.png)
 
-  <img src="https://count.getloli.com/get/@:hackirby?darkmode=0"/>
+  <img src="https://count.getloli.com/get/@:DanxyOfficial?darkmode=0"/>
   <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
   <br>
 
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=hackirby&data=followers,repositories,stars&theme=darkmode" width=500>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=NgakuNgakuDevTapiScRecodePunyaGw&data=followers,repositories,stars&theme=darkmode" width=500>
   <br>
   
 <p align="center">
