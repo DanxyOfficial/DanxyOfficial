@@ -24,7 +24,7 @@
 ## **LANGUAGE SKILLS**
  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java,bash">
   <br>
-  ---
+  
   
 ## **Statistik GitHub**
 <p align="center">
