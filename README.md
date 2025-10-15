@@ -19,9 +19,11 @@
 </p>
 
 ---
+## **LANGUAGE SKILLS**
  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java,bash">
   <br>
-
+---
+## **MY PROFILES**
   <img src="https://github-widgetbox.vercel.app/api/profile?username=DanxyOfficial&data=followers,repositories,stars&theme=darkmode" width=500>
   <br>
   ---
