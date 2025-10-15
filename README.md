@@ -1,4 +1,6 @@
   ![Banner](https://github.com/DanxyOfficial/DanxyOfficial/blob/main/Tak%20berjudul37_20250919183626.png)
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=DanxyOfficial&data=followers,repositories,stars&theme=darkmode" width=500>
+  <br>
   
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial"><img src="https://img.shields.io/badge/YouTube-DanxyOfficial-red?style=for-the-badge&logo=youtube"></a>
@@ -18,13 +20,9 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+  ---
 ## **LANGUAGE SKILLS**
  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java,bash">
-  <br>
----
-## **MY PROFILES**
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=DanxyOfficial&data=followers,repositories,stars&theme=darkmode" width=500>
   <br>
   ---
   
