@@ -18,7 +18,7 @@
 
 ---
 
-## METRICS
+### METRICS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanxyOfficial&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&height=300" width="100%">
@@ -30,19 +30,19 @@
 
 ---
 
-## 🛠 TECH STACK
+### TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,vercel,linux,ubuntu,bash&perline=8">
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIvRS319I56K1/giphy.gif](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)" width="120">
+  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150">
 </p>
 
 ---
 
-## NODES
+### NODES
 
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial">
