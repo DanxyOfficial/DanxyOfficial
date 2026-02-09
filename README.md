@@ -36,10 +36,10 @@
 
 ---
 
-### STACK
+### CORE STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,py,go,java,js,html,css,git,github,vscode,docker,mysql,php,cpp,powershell,replit,md,regex,postman,aws,cloudflare,anaconda,arduino,discord,express,figma,firebase,flask,gmail,materialui,mongodb,nextjs,nodejs,react,redux,sqlite,tailwind,ts,vim,kali,ubuntu,debian,ansible,nginx,pnpm,vitest,jenkins,azure,active-directory,arch,bots,clion,cmake,dart,eclipse,fedora,gherkin,gitlab,haskell,idea,instagram,kotlin,laravel,lua,maven,nanoc,netlify,obsidian,ocaml,oracle,perl,ps,qt,r,ruby,rust,sass,solidity,spring,swift,threejs,ubuntu,unreal,v,valala,vue,wasm,zig&perline=14">
+  <img src="https://skillicons.dev/icons?i=py,js,go,bash,linux,kali,docker,mysql,mongodb,git,github,vscode&perline=6">
 </p>
 
 ---
