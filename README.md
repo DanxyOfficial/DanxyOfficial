@@ -36,10 +36,10 @@
 
 ---
 
-### CORE STACK
+### TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,go,bash,linux,kali,docker,mysql,mongodb,git,github,vscode&perline=6">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,vercel,linux,ubuntu,bash&perline=8">
 </p>
 
 ---
