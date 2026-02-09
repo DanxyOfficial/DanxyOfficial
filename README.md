@@ -30,11 +30,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanxyOfficial&theme=dark&background=0d1117&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" width="100%">
     </td>
     <td width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanxyOfficial&theme=2h7_dark" width="100%">
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanxyOfficial&theme=2h7_dark" width="100%">
-    </td>
   </tr>
 </table>
 
