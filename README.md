@@ -52,16 +52,6 @@
 
 ---
 
-### ANALYSIS
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanxyOfficial&theme=2h7_dark" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanxyOfficial&theme=2h7_dark&utcOffset=7" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanxyOfficial&theme=2h7_dark" width="32%">
-</p>
-
----
-
 ### NODES
 
 <p align="center">
@@ -71,11 +61,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=DONE&fontSize=20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</p>
