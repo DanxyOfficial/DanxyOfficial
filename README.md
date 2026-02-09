@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preview.redd.it/does-anyone-have-a-real-github-contributions-graph-like-v0-useo8hrsi6k91.png?auto=webp&s=923482c46ee77d6ff216cda0204f51cf113671bc" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5N2IweTYwMGJyb2x4MmhwZmxkYjFhcjd2aXR4NTdmanJsYThtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnhwDPt62MJesiDNfT/giphy.gif" width="100%">
 </p>
 
 <p align="center">
