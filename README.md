@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=250&section=header&text=DANXY%20OFFICIAL&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=250&section=header&text=DANXY%20OFFICIAL&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING;AUTOMATION+SYSTEMS;SYSTEM+ARCHITECTURE" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.gif" width="100%">
 </p>
 
 <p align="center">
@@ -42,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,vercel,linux,ubuntu,bash&perline=8">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIvRS319I56K1/giphy.gif" width="150">
+</p>
+
 ---
 
 ### ANALYSIS
@@ -62,6 +70,12 @@
   <a href="https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e"><img src="https://img.shields.io/badge/WHATSAPP-333333?style=flat-square&logo=whatsapp"></a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=DONE&fontSize=20" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </p>
