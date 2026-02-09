@@ -57,3 +57,6 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://preview.redd.it/does-anyone-have-a-real-github-contributions-graph-like-v0-useo8hrsi6k91.png?auto=webp&s=923482c46ee77d6ff216cda0204f51cf113671bc" width="100%">
+</p>
