@@ -42,8 +42,6 @@
 
 ---
 
-### NODES
-
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial">
     <img src="https://img.shields.io/badge/YOUTUBE-333333?style=flat-square&logo=youtube">
