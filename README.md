@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=250&section=header&text=DANXY%20OFFICIAL&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%">
+  <img src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif" width="100%">
 </p>
 
 <p align="center">
