@@ -18,19 +18,6 @@
 
 ---
 
-### METRICS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanxyOfficial&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&height=300" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanxyOfficial&theme=dark&background=0d1117&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" width="48%">
-</p>
-
----
-
-### TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,vercel,linux,ubuntu,bash&perline=8">
@@ -38,6 +25,17 @@
 
 <p align="center">
   <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanxyOfficial&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&height=300" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanxyOfficial&theme=dark&background=0d1117&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" width="48%">
 </p>
 
 ---
