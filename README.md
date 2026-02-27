@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J5N2IweTYwMGJyb2x4MmhwZmxkYjFhcjd2aXR4NTdmanJsYThtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnhwDPt62MJesiDNfT/giphy.gif" width="57%">
 </p>
@@ -18,7 +20,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,vercel,linux,ubuntu,bash&perline=8">
 </p>
@@ -28,7 +29,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanxyOfficial&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&height=300" width="100%">
