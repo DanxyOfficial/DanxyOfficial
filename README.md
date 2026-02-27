@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-VERIFIED-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/CORE-UNIX-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/SEC-ENCRYPTED-333333?style=flat-square">
+  <img src="https://img.shields.io/badge/STATUS-VERIFIED-success?style=for-the-badge&logo=checkmarx&logoColor=white">
+  <img src="https://img.shields.io/badge/CORE-UNIX-orange?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/SEC-ENCRYPTED-blue?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
 ---
