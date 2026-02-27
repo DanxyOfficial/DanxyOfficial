@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@DanxyOfficial">
-    <img src="https://img.shields.io/badge/YOUTUBE-333333?style=flat-square&logo=youtube">
+    <img src="https://img.shields.io/badge/YOUTUBE-333333?style=plastic&logo=youtube&logoColor=white">
   </a>
   <a href="https://t.me/DanxyStore">
-    <img src="https://img.shields.io/badge/TELEGRAM-333333?style=flat-square&logo=telegram">
+    <img src="https://img.shields.io/badge/TELEGRAM-444444?style=plastic&logo=telegram&logoColor=white">
   </a>
   <a href="https://whatsapp.com/channel/0029VaznZlq7z4kW00unHZ0e">
-    <img src="https://img.shields.io/badge/WHATSAPP-333333?style=flat-square&logo=whatsapp">
+    <img src="https://img.shields.io/badge/WHATSAPP-555555?style=plastic&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
